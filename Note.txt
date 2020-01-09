@@ -1,0 +1,16 @@
+Pada folder database berisi:
+1. trainingset -> data komentar keseluruhan
+2. wordfrequency -> perhitungan kata pada trainingset
+
+pada folder 1 berisi hasil dari program berupa website
+
+pada folder mungkin_stemmed merupakan library varunon yang digunakan
+
+pada folder sastrawi-master berisi tokenizing dan stemming oleh library sastrawi
+
+folder vendor merupakan project composer yang digunakan untuk import library varunon dan sastrawi
+
+created by : Maximillian Christianto - 26416027
+Surabaya, Januari 2020
+Jurusan Informatika, Fakultas Teknologi Industri
+Universitas Kristen Petra
